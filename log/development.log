@@ -1,0 +1,66 @@
+[Fri Aug 30 15:26:24 2013] [info] Listening at "http://*:3000".
+[Fri Aug 30 15:26:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug 30 15:26:28 2013] [debug] GET "/".
+[Fri Aug 30 15:26:28 2013] [error] syntax error at /home/icenine/projects/mojo-utf/script/../lib/MojoUtf/Example.pm line 14, near ")
+
+  my "
+Global symbol "$row" requires explicit package name at /home/icenine/projects/mojo-utf/script/../lib/MojoUtf/Example.pm line 14.
+Global symbol "$row" requires explicit package name at /home/icenine/projects/mojo-utf/script/../lib/MojoUtf/Example.pm line 18.
+Compilation failed in require at (eval 236) line 1.
+
+[Fri Aug 30 15:26:28 2013] [debug] Template "exception.development.html.ep" not found.
+[Fri Aug 30 15:26:28 2013] [debug] Template "exception.html.ep" not found.
+[Fri Aug 30 15:26:28 2013] [debug] Rendering inline template.
+[Fri Aug 30 15:26:28 2013] [debug] Rendering inline template.
+[Fri Aug 30 15:26:28 2013] [debug] 500 Internal Server Error (0.021338s, 46.865/s).
+[Fri Aug 30 15:26:47 2013] [info] Listening at "http://*:3000".
+[Fri Aug 30 15:26:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug 30 15:26:48 2013] [debug] GET "/".
+[Fri Aug 30 15:26:48 2013] [debug] Routing to controller "MojoUtf::Example" and action "welcome".
+[Fri Aug 30 15:26:48 2013] [error] Can't locate object method "connect" via package "DBI" (perhaps you forgot to load "DBI"?) at /home/icenine/projects/mojo-utf/script/../lib/MojoUtf/Example.pm line 9.
+
+[Fri Aug 30 15:26:48 2013] [debug] Template "exception.development.html.ep" not found.
+[Fri Aug 30 15:26:48 2013] [debug] Template "exception.html.ep" not found.
+[Fri Aug 30 15:26:48 2013] [debug] Rendering inline template.
+[Fri Aug 30 15:26:48 2013] [debug] Rendering inline template.
+[Fri Aug 30 15:26:48 2013] [debug] 500 Internal Server Error (0.021743s, 45.992/s).
+[Fri Aug 30 15:27:06 2013] [info] Listening at "http://*:3000".
+[Fri Aug 30 15:27:08 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug 30 15:27:08 2013] [debug] GET "/".
+[Fri Aug 30 15:27:08 2013] [debug] Routing to controller "MojoUtf::Example" and action "welcome".
+[Fri Aug 30 15:27:08 2013] [error] Can't locate object method "fetchrow_hashref" via package "DBI::db" at /home/icenine/projects/mojo-utf/script/../lib/MojoUtf/Example.pm line 15.
+
+[Fri Aug 30 15:27:08 2013] [debug] Template "exception.development.html.ep" not found.
+[Fri Aug 30 15:27:08 2013] [debug] Template "exception.html.ep" not found.
+[Fri Aug 30 15:27:08 2013] [debug] Rendering inline template.
+[Fri Aug 30 15:27:08 2013] [debug] Rendering inline template.
+[Fri Aug 30 15:27:08 2013] [debug] 500 Internal Server Error (0.057164s, 17.494/s).
+[Fri Aug 30 15:27:25 2013] [info] Listening at "http://*:3000".
+[Fri Aug 30 15:27:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug 30 15:27:26 2013] [debug] GET "/".
+[Fri Aug 30 15:27:26 2013] [debug] Routing to controller "MojoUtf::Example" and action "welcome".
+[Fri Aug 30 15:27:26 2013] [error] DBI::db=HASH(0x96006ec)->do(...): attribute parameter 'Ð²ÐµÐ»Ð¸ÐºÐ¸Ð¹ Ð¸ Ð¼Ð¾Ð³ÑÑÐ¸Ð¹' is not a hash ref at /home/icenine/projects/mojo-utf/script/../lib/MojoUtf/Example.pm line 13.
+
+[Fri Aug 30 15:27:26 2013] [debug] Template "exception.development.html.ep" not found.
+[Fri Aug 30 15:27:26 2013] [debug] Template "exception.html.ep" not found.
+[Fri Aug 30 15:27:26 2013] [debug] Rendering inline template.
+[Fri Aug 30 15:27:26 2013] [debug] Rendering inline template.
+[Fri Aug 30 15:27:26 2013] [debug] 500 Internal Server Error (0.039302s, 25.444/s).
+[Fri Aug 30 15:27:42 2013] [info] Listening at "http://*:3000".
+[Fri Aug 30 15:27:43 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug 30 15:27:43 2013] [debug] GET "/".
+[Fri Aug 30 15:27:43 2013] [debug] Routing to controller "MojoUtf::Example" and action "welcome".
+[Fri Aug 30 15:27:43 2013] [error] Can't locate object method "fetchrow_hashref" via package "DBI::db" at /home/icenine/projects/mojo-utf/script/../lib/MojoUtf/Example.pm line 15.
+
+[Fri Aug 30 15:27:43 2013] [debug] Template "exception.development.html.ep" not found.
+[Fri Aug 30 15:27:43 2013] [debug] Template "exception.html.ep" not found.
+[Fri Aug 30 15:27:43 2013] [debug] Rendering inline template.
+[Fri Aug 30 15:27:43 2013] [debug] Rendering inline template.
+[Fri Aug 30 15:27:43 2013] [debug] 500 Internal Server Error (0.047060s, 21.249/s).
+[Fri Aug 30 15:28:23 2013] [info] Listening at "http://*:3000".
+[Fri Aug 30 15:28:24 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug 30 15:28:24 2013] [debug] GET "/".
+[Fri Aug 30 15:28:24 2013] [debug] Routing to controller "MojoUtf::Example" and action "welcome".
+[Fri Aug 30 15:28:24 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug 30 15:28:24 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug 30 15:28:24 2013] [debug] 200 OK (0.040328s, 24.797/s).
